@@ -23,6 +23,8 @@ Below are the key tasks performed in this section:
 ### 1. Security Policy Configuration
 ![image](https://github.com/user-attachments/assets/77508909-218e-4f86-89f9-2e7318b4e983)
 ![image](https://github.com/user-attachments/assets/9f528512-7462-45af-b340-cc76631ff757)
+![image](https://github.com/user-attachments/assets/bb463ce0-e150-484f-bc28-1c216d09ead0)
+
 - Created and managed security policies to regulate access and protect sensitive data.
 - Configured application-based and user-based policies to enhance control.
 
@@ -85,6 +87,20 @@ Below are the key tasks performed in this section:
 - Configured External Dynamic Lists to dynamically manage malicious domains and IPs.
 - Set up source URLs for automatic updates and ensured lists were fetched periodically.
 - Utilized EDLs to enforce security policies against high-risk or known malicious resources.
+
+### 12. URL Filtering and Monitoring
+![image](https://github.com/user-attachments/assets/f0321ae1-1007-47fb-97cc-87af90223392)
+- Monitored URL filtering logs to ensure malicious and blocked sites were being correctly identified.
+- Verified the enforcement of security policies based on dynamic URL categories and blocklists.
+- Analyzed logs to review user activity and ensure compliance with organizational policies.
+
+### 13. Interface and Zone Configuration
+![3](https://github.com/user-attachments/assets/e1db371e-c2f0-4660-969c-8e4a1404c278)
+- Configured interfaces with appropriate IP addresses, zones, and security profiles.
+- Assigned virtual routers and security zones to segregate network traffic effectively.
+- Managed Layer 3 interfaces for enterprise network deployment and SD-WAN setup.
+
+
 
 
 

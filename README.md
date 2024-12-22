@@ -75,11 +75,19 @@ Below are the key tasks performed in this section:
 ![image](https://github.com/user-attachments/assets/f6909dfa-c870-4d18-8805-32f302faedc0)
 ![image](https://github.com/user-attachments/assets/0fae6216-fe96-4b7e-84f8-44250699018a)
 ![image](https://github.com/user-attachments/assets/3e98913a-66d7-4ccf-9386-9614447506d9)
-
 - Tested security policies by verifying their impact on traffic flow and connectivity.
 - Used `nslookup` to confirm DNS queries were allowed or blocked based on policies.
 - Conducted ping tests to validate policy behavior, ensuring intended traffic was permitted or denied.
 - Analyzed policy hit counts and logs to confirm correct implementation.
+
+### 11. External Dynamic List (EDL) Configuration
+![image](https://github.com/user-attachments/assets/5ce14d92-d86d-45ff-8cab-75beeb17f19e)
+- Configured External Dynamic Lists to dynamically manage malicious domains and IPs.
+- Set up source URLs for automatic updates and ensured lists were fetched periodically.
+- Utilized EDLs to enforce security policies against high-risk or known malicious resources.
+
+
+
 
 ---
 
